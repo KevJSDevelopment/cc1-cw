@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{83EE2E9F-38DA-422B-894C-BDFAAB9D932B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Coding-challenges-1__CMD-WC PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/kevinsheehan/Projects/Coding-challenges-1_CMD-WC/Coding-challenges-1_CMD-WC/Program.cs" relfile="Coding-challenges-1_CMD-WC/Program.cs" line="5" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Coding-challenges-1_CMD-WC/Program.cs">
+    <Files>
+      <File FileName="Coding-challenges-1_CMD-WC/Program.cs" Line="22" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Coding-challenges-1_CMD-WC" expanded="True">
+            <Node name="Coding-challenges-1_CMD-WC" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

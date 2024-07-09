@@ -1,0 +1,93 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": ".NET Core Launch (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/ccwc/bin/Debug/net7.0/Coding-challenges-1_CMD-WC.dll",
+            "args": ["-c", "test.txt"],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole",
+            "requireExactSource": false,
+            "justMyCode": false,
+            "postDebugTask": {
+                "task": "build",
+                "type": "dotnet"
+            }
+        },
+        {
+            "name": ".NET Core Launch (console) 2",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/ccwc/bin/Debug/net7.0/Coding-challenges-1_CMD-WC.dll",
+            "args": ["-l", "test.txt"],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole",
+            "requireExactSource": false,
+            "justMyCode": false,
+            "postDebugTask": {
+                "task": "build",
+                "type": "dotnet"
+            }
+        },
+        {
+            "name": ".NET Core Launch (console) 3",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/ccwc/bin/Debug/net7.0/Coding-challenges-1_CMD-WC.dll",
+            "args": ["-w", "test.txt"],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole",
+            "requireExactSource": false,
+            "justMyCode": false,
+            "postDebugTask": {
+                "task": "build",
+                "type": "dotnet"
+            }
+        },
+        {
+            "name": ".NET Core Launch (console) 4",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/ccwc/bin/Debug/net7.0/Coding-challenges-1_CMD-WC.dll",
+            "args": ["-m", "test.txt"],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole",
+            "requireExactSource": false,
+            "justMyCode": false,
+            "postDebugTask": {
+                "task": "build",
+                "type": "dotnet"
+            }
+        },
+        {
+            "name": ".NET Core Launch (console) 5",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/ccwc/bin/Debug/net7.0/Coding-challenges-1_CMD-WC.dll",
+            "args": ["test.txt"],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole",
+            "requireExactSource": false,
+            "justMyCode": false,
+            "postDebugTask": {
+                "task": "build",
+                "type": "dotnet"
+            }
+        }
+    ]
+}
